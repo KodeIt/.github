@@ -34,6 +34,10 @@ All the features in our website are free of cost and is developer friendly. Some
 5. Follow people you like
 6. Personalize your profile
 
+## Visit us
+
+We are always up and running at [kodeit.me](http://www.kodeit.me)
+
 ## Get in touch with us
 
 Whether you want to become a part of this journey or you have general queris, always feel free to reach us at any of the email below
